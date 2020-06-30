@@ -8,7 +8,8 @@ This web page mainly introduces my 4 course projects related to different statis
 
 ## Methodology & Details 
 ### Project 1
-In this project, we examine the effect of class size on math scores in grade 1 using data from the Tennessee STAR experiment. The project randomized students within a school into one of three class types: small (13-17 students per class), regular without a teacher’s aide (22-25 students), and regular with an aide (22-25 students). We conduct F-test within the ANOVA model to make inferences about whether the effects of three class types are different or not.
+In this project, we examine the effect of class size on math scores in grade 1 using data from the Tennessee STAR experiment. The project randomized students within a school into one of three class types: small (13-17 students per class), regular without a teacher’s aide (22-25 students), and regular with an aide (22-25 students). We conduct F-test within the ANOVA model to make inferences about whether the effects of three class types are different or not.  
+#### Data Set
 
 ```markdown
 Syntax highlighted code block
@@ -27,6 +28,82 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### Project 2
+
+#### Data Set
+
+```markdown
+Syntax highlighted code block
+
+# Project 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Project 3
+
+#### Data Set
+
+```markdown
+Syntax highlighted code block
+
+# Project 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Project 4
+
+#### Data Set
+
+```markdown
+Syntax highlighted code block
+
+# Project 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+
+
+
+
+
+
+
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
