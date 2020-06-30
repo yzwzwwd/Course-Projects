@@ -1,5 +1,5 @@
 ## Introduction
-This web page mainly introduces Zhiwei Wang's 4 course projects related to different statistical models. All the projects consist of exploratory data analysis, model building and hypothesis testing.
+This web page mainly introduces Zhiwei Wang's 4 course projects related to different statistical models. All the projects consist of exploratory data analysis, model building and hypothesis testing. The analysis is conducted via R software.
 
 ### Markdown
 
