@@ -1,14 +1,14 @@
 ## Introduction
 This web page mainly introduces my 4 course projects related to different statistical models. All the projects consist of exploratory data analysis, model building and hypothesis testing. The analysis is conducted via R software.  
 
-* ***Effect of Class Size on Student Achievement (One-way ANOVA Model)***
-* ***Relationship between a mandatory jail sentence and traffic fatalities (Time and Entity Fixed Effects Regression Model)***
-* ***Further Research on the Effect of Class Size on Student Achievement (Two-Way ANOVA Model)***
-* ***Bank Marketing Campaign Prediction (Logistic Regression Model & Random Forest)***
+* ***Effect of Class Size on Student Achievement*** (One-way ANOVA Model)
+* ***Relationship between a mandatory jail sentence and traffic fatalities*** (Time and Entity Fixed Effects Regression Model)
+* ***Further Research on the Effect of Class Size on Student Achievement*** (Two-Way ANOVA Model)
+* ***Bank Marketing Campaign Prediction*** (Logistic Regression Model & Random Forest)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Methodology & Details 
+### Project 1
+In this project, we examine the effect of class size on math scores in grade 1 using data from the Tennessee STAR experiment. The project randomized students within a school into one of three class types: small (13-17 students per class), regular without a teacher’s aide (22-25 students), and regular with an aide (22-25 students). We conduct F-test within the ANOVA model to make inferences about whether the effects of three class types are different or not.
 
 ```markdown
 Syntax highlighted code block
