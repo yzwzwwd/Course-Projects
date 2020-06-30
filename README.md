@@ -1,5 +1,9 @@
 ## Introduction
-This web page mainly introduces Zhiwei Wang's 4 course projects related to different statistical models. All the projects consist of exploratory data analysis, model building and hypothesis testing. The analysis is conducted via R software.
+This web page mainly introduces Zhiwei Wang's 4 course projects related to different statistical models. All the projects consist of exploratory data analysis, model building and hypothesis testing. The analysis is conducted via R software.  
+* 1.Effect of Class Size on Student Achievement (One-way ANOVA Model)
+* 2.Relationship between a mandatory jail sentence and traffic fatalities (Time and Entity Fixed Effects Regression Model)
+* 3.Further Research on the Effect of Class Size on Student Achievement (Two-Way ANOVA Model)
+* 4.Bank Marketing Campaign Prediction (Logistic Regression Model & Random Forest)
 
 ### Markdown
 
