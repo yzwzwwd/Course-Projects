@@ -15,7 +15,7 @@ The data comes from Tennesses Student/Teacher Achievement Ratio study (Project S
 In this project, our goal is to analyze the distribution of students' math grade among different class types. Here class type is the only factor we care about, thus we choosing one-way ANOVA model to fit the data. Another important point is to evaluate the feasibility of making corresponding causal statement following the hypothesis test result. 
 
 #### Important Result
-![1](https://user-images.githubusercontent.com/59634408/86227623-27e86a00-bb42-11ea-9ef5-01c22737f0f8.png)
+![Math Grade Distribution among Different Class Types](https://github.com/yzwzwwd/Course-Projects/blob/master/1.png?raw=true)
 ```markdown
 # Project 1
 
