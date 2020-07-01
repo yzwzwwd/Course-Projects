@@ -28,7 +28,7 @@ Another important point in both models is to evaluate the feasibility of making 
 **Time and Entity Fixed Effects Regression Model**  
 **Selection of Covariatest**
 #### Data Set
-In our project, we use the data set “Fatalities” containing the traffic fatalities data for 48 US states from 1982 to 1988. Certain measures are included in the
+In this project, we use the data set “Fatalities” containing the traffic fatalities data for 48 US states from 1982 to 1988. Certain measures are included in the
 data such as minimum legal drinking age, beer tax and percent of young drivers aged 15-24. Variables related to the economic and human environment of each state and each year are also available like the population, unemployment rate and income per capita.
 #### Main Task  
 Our goal is to analyse the data to find out which of these variables have association with traffic fatalities. Specifically, we want to check whether having a mandatory jail sentence is associated with reduction of traffic fatalities. Also we will check the feasibility of making causal statements. One of the most important tasks here is to select appropriate control variables (covariates) so that the estimation of the main effect of the variable we are interested in is not biased.  
@@ -37,43 +37,21 @@ Our goal is to analyse the data to find out which of these variables have associ
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/32.png?raw=true" width="800" height="400">
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/31.png?raw=true" width="700" height="400">
 
-
-### Project 4
-
+### Project 4: Bank Marketing Campaign Prediction
+#### Methodology  
+**Resampling (upsample/downsample/SMOTE)**
+**Logistic Regression**  
+**Random Forest** & **Parameter Tunning**  
+**ROC Curve** & **AUC**
 #### Data Set
-
-```markdown
-Syntax highlighted code block
-
-# Project 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+In this project, we will use the “Bank Marketing Campaign” data set. It contains the variables of bank clients’ information, social and economic context attributes and some others. The dependent variable is “whether the client will subscribe a term deposit or not”.
+#### Main Task
+We build classification models such as Logistic Regression and Decision Tree to predict the telemarketing call’s results. Finally, we are going to compare all these models
+according to different criterion like the precision and sensitivity. With the implementation of this project, banks can better understand what kinds of clients are more likely to subscribe a term deposit, so that they can select a high quality set of potential customers and reduce the phone calls.
+#### Important Result
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/41.png?raw=true" width="800" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/42.png?raw=true" width="700" height="400">
 
 
 
 
-
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yzwzwwd/Introduction-of-Zhiwei-Wang-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
