@@ -49,8 +49,8 @@ In this project, we will use the “Bank Marketing Campaign” data set. It cont
 We build classification models such as Logistic Regression and Decision Tree to predict the telemarketing call’s results. Finally, we are going to compare all these models
 according to different criterion like the precision and sensitivity. With the implementation of this project, banks can better understand what kinds of clients are more likely to subscribe a term deposit, so that they can select a high quality set of potential customers and reduce the phone calls.
 #### Important Result
-<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/41.png?raw=true" width="800" height="400">
-<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/42.png?raw=true" width="700" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/41.png?raw=true" width="1000" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/42.png?raw=true" width="700" height="600">
 
 
 
