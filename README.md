@@ -2,14 +2,16 @@
 This web page mainly introduces my 4 course projects related to different statistical models. All the projects consist of exploratory data analysis, model building and hypothesis testing. The analysis is conducted via R software.  
 
 * ***Effect of Class Size on Student Achievement*** (One-way ANOVA Model)
-* ***Relationship between a mandatory jail sentence and traffic fatalities*** (Time and Entity Fixed Effects Regression Model)
 * ***Further Research on the Effect of Class Size on Student Achievement*** (Two-Way ANOVA Model)
+* ***Relationship between a mandatory jail sentence and traffic fatalities*** (Time and Entity Fixed Effects Regression Model)
 * ***Bank Marketing Campaign Prediction*** (Logistic Regression Model & Random Forest)
  
-### Project 1 & Project 2
-In this project, we examine the effect of class size on math scores in grade 1 using data from the Tennessee STAR experiment. The project randomized students within a school into one of three class types: small (13-17 students per class), regular without a teacher’s aide (22-25 students), and regular with an aide (22-25 students). We conduct F-test within the ANOVA model to make inferences about whether the effects of three class types are different or not.  
+### Project 1 & Project 2: Investigating into Factors related to Student Achievement
 #### Methodology  
-**One-way ANOVA**/**Main Effect and Interaction Effect Plot**/**Causal Statement**
+**One-way ANOVA**
+**Two-way ANOVA**
+**Main Effect and Interaction Effect Plot**
+**Causal Statement**
 #### Data Set
 The data comes from Tennesses Student/Teacher Achievement Ratio study (Project STAR). Within the experiment, enrolled schools are selected randomly and students among the schools are randomly assigned to each class type: small. regular and regular with a teacher's aide. The dataset contains scaled scores for math and reading from kindergarten to 3rd grade.
 #### Main Task  
@@ -21,27 +23,20 @@ Another important point in both models is to evaluate the feasibility of making 
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/1.png?raw=true" width="700" height="400">
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/2.png?raw=true" width="700" height="400">
 
-### Project 3
-
+### Project 3: Relationship between a mandatory jail sentence and traffic fatalities
+#### Methodology  
+**Time and Entity Fixed Effects Regression Model**
+**Selection of Covariatest**
 #### Data Set
+In our project, we use the data set “Fatalities” containing the traffic fatalities data for 48 US states from 1982 to 1988. Certain measures are included in the
+data such as minimum legal drinking age, beer tax and percent of young drivers aged 15-24. Variables related to the economic and human environment of each state and each year are also available like the population, unemployment rate and income per capita.
+#### Main Task  
+Our goal is to analyse the data to find out which of these variables have association with traffic fatalities. Specifically, we want to check whether having a mandatory jail sentence is associated with reduction of traffic fatalities. Also we will check the feasibility of making causal statements. One of the most important tasks here is to select appropriate control variables (covariates) so that the estimation of the main effect of the variable we are interested in is not biased.  
 
-```markdown
-Syntax highlighted code block
+#### Important Result
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/32.png?raw=true" width="800" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/31.png?raw=true" width="700" height="400">
 
-# Project 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Project 4
 
