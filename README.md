@@ -8,9 +8,9 @@ This web page mainly introduces my 4 course projects related to different statis
  
 ### Project 1 & Project 2: Investigating into Factors related to Student Achievement
 #### Methodology  
-**One-way ANOVA**
-**Two-way ANOVA**
-**Main Effect and Interaction Effect Plot**
+**One-way ANOVA**  
+**Two-way ANOVA**  
+**Main Effect and Interaction Effect Plot**  
 **Causal Statement**
 #### Data Set
 The data comes from Tennesses Student/Teacher Achievement Ratio study (Project STAR). Within the experiment, enrolled schools are selected randomly and students among the schools are randomly assigned to each class type: small. regular and regular with a teacher's aide. The dataset contains scaled scores for math and reading from kindergarten to 3rd grade.
@@ -25,7 +25,7 @@ Another important point in both models is to evaluate the feasibility of making 
 
 ### Project 3: Relationship between a mandatory jail sentence and traffic fatalities
 #### Methodology  
-**Time and Entity Fixed Effects Regression Model**
+**Time and Entity Fixed Effects Regression Model**  
 **Selection of Covariatest**
 #### Data Set
 In our project, we use the data set “Fatalities” containing the traffic fatalities data for 48 US states from 1982 to 1988. Certain measures are included in the
