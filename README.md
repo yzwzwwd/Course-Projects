@@ -34,7 +34,7 @@ data such as minimum legal drinking age, beer tax and percent of young drivers a
 Our goal is to analyse the data to find out which of these variables have association with traffic fatalities. Specifically, we want to check whether having a mandatory jail sentence is associated with reduction of traffic fatalities. Also we will check the feasibility of making causal statements. One of the most important tasks here is to select appropriate control variables (covariates) so that the estimation of the main effect of the variable we are interested in is not biased.  
 
 #### Important Result
-<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/32.png?raw=true" width="800" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/32.png?raw=true" width="800" height="300">
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/31.png?raw=true" width="700" height="400">
 
 ### Project 4: Bank Marketing Campaign Prediction
