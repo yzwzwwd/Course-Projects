@@ -15,11 +15,11 @@ The data comes from Tennesses Student/Teacher Achievement Ratio study (Project S
 #### Main Task  
 In project 1, our goal is to analyze the distribution of students' math grade among different class types. Here class type is the only factor we care about, thus we choosing one-way ANOVA model to fit the data. 
 In project 2, we take both class type and school type into consideration. Two-way ANOVA model holds more assumptions which are in need of checking.
-Another important point is to evaluate the feasibility of making corresponding causal statement following the hypothesis test result. 
+Another important point in both models is to evaluate the feasibility of making corresponding causal statement following the hypothesis test result. 
 
 #### Important Result
-<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/1.png?raw=true" width="800" height="500">
-
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/1.png?raw=true" width="700" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/2.png?raw=true" width="700" height="400">
 
 ### Project 3
 
