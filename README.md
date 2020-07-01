@@ -5,40 +5,21 @@ This web page mainly introduces my 4 course projects related to different statis
 * ***Relationship between a mandatory jail sentence and traffic fatalities*** (Time and Entity Fixed Effects Regression Model)
 * ***Further Research on the Effect of Class Size on Student Achievement*** (Two-Way ANOVA Model)
 * ***Bank Marketing Campaign Prediction*** (Logistic Regression Model & Random Forest)
-
-## Methodology & Details 
-### Project 1
+ 
+### Project 1 & Project 2
 In this project, we examine the effect of class size on math scores in grade 1 using data from the Tennessee STAR experiment. The project randomized students within a school into one of three class types: small (13-17 students per class), regular without a teacher’s aide (22-25 students), and regular with an aide (22-25 students). We conduct F-test within the ANOVA model to make inferences about whether the effects of three class types are different or not.  
+#### Methodology  
+**One-way ANOVA**/**Main Effect and Interaction Effect Plot**/**Causal Statement**
 #### Data Set
 The data comes from Tennesses Student/Teacher Achievement Ratio study (Project STAR). Within the experiment, enrolled schools are selected randomly and students among the schools are randomly assigned to each class type: small. regular and regular with a teacher's aide. The dataset contains scaled scores for math and reading from kindergarten to 3rd grade.
 #### Main Task  
-In this project, our goal is to analyze the distribution of students' math grade among different class types. Here class type is the only factor we care about, thus we choosing one-way ANOVA model to fit the data. Another important point is to evaluate the feasibility of making corresponding causal statement following the hypothesis test result. 
+In project 1, our goal is to analyze the distribution of students' math grade among different class types. Here class type is the only factor we care about, thus we choosing one-way ANOVA model to fit the data. 
+In project 2, we take both class type and school type into consideration. Two-way ANOVA model holds more assumptions which are in need of checking.
+Another important point is to evaluate the feasibility of making corresponding causal statement following the hypothesis test result. 
 
 #### Important Result
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/1.png?raw=true" width="800" height="500">
 
-
-### Project 2
-
-#### Data Set
-
-```markdown
-Syntax highlighted code block
-
-# Project 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Project 3
 
@@ -83,8 +64,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
 
 
 
