@@ -10,23 +10,17 @@ This web page mainly introduces my 4 course projects related to different statis
 ### Project 1
 In this project, we examine the effect of class size on math scores in grade 1 using data from the Tennessee STAR experiment. The project randomized students within a school into one of three class types: small (13-17 students per class), regular without a teacher’s aide (22-25 students), and regular with an aide (22-25 students). We conduct F-test within the ANOVA model to make inferences about whether the effects of three class types are different or not.  
 #### Data Set
+The data comes from Tennesses Student/Teacher Achievement Ratio study (Project STAR). Within the experiment, enrolled schools are selected randomly and students among the schools are randomly assigned to each class type: small. regular and regular with a teacher's aide. The dataset contains scaled scores for math and reading from kindergarten to 3rd grade.
+#### Main Task  
+In this project, our goal is to analyze the distribution of students' math grade among different class types. Here class type is the only factor we care about, thus we choosing one-way ANOVA model to fit the data. Another important point is to evaluate the feasibility of making corresponding causal statement following the hypothesis test result. 
 
 ```markdown
-Syntax highlighted code block
-
 # Project 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![1](https://user-images.githubusercontent.com/59634408/86227623-27e86a00-bb42-11ea-9ef5-01c22737f0f8.png)
 ```
 
 ### Project 2
