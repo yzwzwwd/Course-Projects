@@ -35,7 +35,7 @@ Our goal is to analyse the data to find out which of these variables have associ
 
 #### Important Result
 <img src="https://github.com/yzwzwwd/Course-Projects/blob/master/32.png?raw=true" width="800" height="300">
-<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/31.png?raw=true" width="700" height="400">
+<img src="https://github.com/yzwzwwd/Course-Projects/blob/master/31.png?raw=true" width="600" height="350">
 
 ### Project 4: Bank Marketing Campaign Prediction
 #### Methodology  
