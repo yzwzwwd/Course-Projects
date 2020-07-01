@@ -39,7 +39,7 @@ Our goal is to analyse the data to find out which of these variables have associ
 
 ### Project 4: Bank Marketing Campaign Prediction
 #### Methodology  
-**Resampling (upsample/downsample/SMOTE)**
+**Resampling (upsample/downsample/SMOTE)**  
 **Logistic Regression**  
 **Random Forest** & **Parameter Tunning**  
 **ROC Curve** & **AUC**
